@@ -19,18 +19,6 @@ A web application that detects whether a message is **Spam** or **Not Spam** usi
 
 ---
 
-## 📂 Project Structure
-
-spam-sms-classifier/
-├── app.py # Streamlit app
-├── vectorizer.pkl # Trained TF-IDF Vectorizer
-├── model.pkl # Trained Voting Classifier
-├── spam.csv # Original dataset (optional for testing)
-├── streamlit working video # demo of the sreamlit app
-└── README.md # This file
-
----
-
 ## 🧠 Model Training Overview
 
 - Dataset: SMS Spam Collection (UCI Machine Learning Repository)
