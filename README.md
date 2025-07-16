@@ -62,6 +62,7 @@ spam-sms-classifier/
 ## 📊 Sample Output
 
 ✅ "This is to inform you about tomorrow’s class timing." → Not Spam
+
 🚨 "You won a free iPhone! Click here to claim now." → Spam
 
 Includes:
