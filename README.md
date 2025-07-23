@@ -30,6 +30,7 @@ A web application that detects whether a message is **Spam** or **Not Spam** usi
 - Feature Extraction: TF-IDF
 - Classifier: Soft Voting Ensemble with SVM, MultinomialNB, and ExtraTreesClassifier
 - Pickled Model + Vectorizer for deployment
+- Working video link: [Streamlit working video]https://jklujaipur-my.sharepoint.com/:v:/g/personal/dishaarora_jklu_edu_in/ETRhV_aSTxZEsoBYNYmr4ZEBNQDeRXg-2fV8CL-6iWRogg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gcdVPq
 
 ---
 
